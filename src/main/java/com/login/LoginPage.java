@@ -7,6 +7,7 @@ public class LoginPage {
 		
 		public void loginPage() {
 			System.out.println("loginPage1");
+			System.out.println("This is Upadte command");
 
 		}
 
